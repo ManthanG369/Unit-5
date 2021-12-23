@@ -1,0 +1,1 @@
+(()=>{"use strict";function o(o,l){return o*l}console.log(6),console.log(o(87,4)),console.log(o(87,5))})();
